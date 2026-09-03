@@ -1,10 +1,10 @@
 # Carlos Fuentes
 
-### AI Engineer | Data Engineering | Automation
+### AI Engineer | AI Solutions | Systems & Data
 
 Técnico en Administración de Sistemas Informáticos en Red (ASIR) y especialista en Inteligencia Artificial y Big Data.
 
-Actualmente trabajo como AI Engineer participando en proyectos de automatización documental, OCR, visión artificial y asistentes inteligentes para entornos empresariales.
+Actualmente trabajo como **AI Engineer**, desarrollando soluciones de inteligencia artificial aplicadas a entornos empresariales, con especial foco en **LLMs, agentes inteligentes, integración con bases de datos y automatización de procesos mediante IA**.
 
 ---
 
@@ -12,59 +12,53 @@ Actualmente trabajo como AI Engineer participando en proyectos de automatizació
 
 Combino conocimientos de:
 
-* Inteligencia Artificial
-* Ingeniería de Datos
-* Sistemas e Infraestructura
+- Inteligencia Artificial
+- Ingeniería de Datos
+- Sistemas e Infraestructura
 
-Mi objetivo es desarrollar soluciones capaces de capturar, procesar y explotar datos mediante IA para resolver problemas reales.
+Mi objetivo es desarrollar soluciones de IA capaces de **procesar información, integrarse con sistemas existentes y resolver problemas reales en entornos empresariales**.
 
 ---
 
 ## Tecnologías
 
-### IA y Datos
+### Inteligencia Artificial
 
-* Python
-* Pandas
-* Scikit-Learn
-* TensorFlow
-* OpenCV
-* OCR (Tesseract / PaddleOCR)
-* LLMs
+- Python
+- LLMs
+- VLMs
+- LangChain
+- TensorFlow
+- Scikit-Learn
+- Machine Learning
 
-### Bases de Datos
+### Datos y Bases de Datos
 
-* SQL Server
-* PostgreSQL
-* MongoDB
+- SQL
+- SQL Server
+- PostgreSQL
+- MySQL
+- Pandas
 
 ### Cloud & Infraestructura
 
-* AWS
-* Azure
-* Docker
-* Terraform
-* Linux
+- AWS
+- Azure
+- Docker
+- Terraform
+- Linux
 
 ---
 
 ## Proyectos Destacados
 
-### Asistente Inteligente Empresarial
-
-🔗 https://github.com/carloosfuentes/asistente_web
-
-Asistente basado en IA capaz de consultar bases de datos, procesar documentación empresarial e integrar modelos de lenguaje para automatizar tareas y consultas internas.
-
-**Tecnologías:** Python, LLMs, SQL, APIs.
-
----
-
-### Arquitectura Cloud en AWS (TFG ASIR)
+### Arquitectura Cloud en AWS — TFG ASIR
 
 🔗 https://github.com/carloosfuentes/tfg-asir
 
-Diseño e implantación de una infraestructura cloud sobre AWS con servicios desplegados en una arquitectura segmentada, monitorización centralizada y automatización de la infraestructura.
+Diseño e implantación de una infraestructura cloud sobre **AWS**, utilizando una arquitectura segmentada, monitorización centralizada y automatización de la infraestructura.
+
+El proyecto combina diferentes servicios y componentes para construir una infraestructura reproducible, monitorizada y preparada para su despliegue en cloud.
 
 **Tecnologías:** AWS, Terraform, Linux, Docker, Prometheus y Grafana.
 
@@ -72,8 +66,8 @@ Diseño e implantación de una infraestructura cloud sobre AWS con servicios des
 
 ## Contacto
 
-* GitHub: https://github.com/carloosfuentes
-* Linkedin: https://www.linkedin.com/in/carlos-fuentes-cobo/
+- GitHub: https://github.com/carloosfuentes
+- LinkedIn: https://www.linkedin.com/in/carlos-fuentes-cobo/
 
 ---
 
